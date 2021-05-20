@@ -9,6 +9,7 @@ public class Student{
     public int a;
     public int ab;
     public int cc;
+    public int bbb;
 
     public Student(String name, int age, List<String> skills) {
         this.name = name;
