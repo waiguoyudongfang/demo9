@@ -7,6 +7,7 @@ public class Student{
     private int age;
     private List<String> skills;
     public int a;
+    public int ab;
 
     public Student(String name, int age, List<String> skills) {
         this.name = name;
