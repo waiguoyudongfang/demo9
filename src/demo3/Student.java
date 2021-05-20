@@ -11,6 +11,7 @@ public class Student{
     public int cc;
     public int bbb;
     public int bbc;
+    public int rbbc;
 
     public Student(String name, int age, List<String> skills) {
         this.name = name;
